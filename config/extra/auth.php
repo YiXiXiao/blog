@@ -34,8 +34,8 @@ return [
 
 	// QQ 互联配置
 	'qqconnect' => [
-		'appid'		=>	'101232670',
-		'appkey'	=>	'47d496c5cab11fad38b140e19084977f',
+		'appid'		=>	'101434225',
+		'appkey'	=>	'aa75403aeb22aa28432ea29e1cf0fb7e',
         // log www 和 不带www 会有一个出现域名不匹配
         'callback'  =>  'http://'.$_SERVER['HTTP_HOST'].'/index/base/callback',
 		'scope'		=>	'get_user_info'
