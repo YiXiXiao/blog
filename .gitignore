@@ -1,0 +1,15 @@
+/framework
+/thinkphp
+/runtime
+.idea
+.DS_Store
+*/.DS_Store
+/application/database.php
+/application/config.php
+/logs
+/public/index.php
+/public/exception
+/public/uploads
+/public/ueditor
+config.php
+database.php
