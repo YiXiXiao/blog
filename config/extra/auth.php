@@ -13,7 +13,7 @@ return [
 	// +----------------------------------------------------------------------
 	// | 常用配置 这里的对其方式需要改成 tab
 	// +----------------------------------------------------------------------
-	'qqgroup'		=>	'4554660101',
+	'qqgroup'		=>	'189621600',
 	'qqjoin'		=>	'http://jq.qq.com/?_wv=1027&k=dSjBgy',
 	'baiduurl'		=>	'http://koubei.baidu.com/w/loveteemo.com',
 	'githuburl'		=>	'https://github.com/YiXiXiao',
@@ -21,7 +21,7 @@ return [
 	'blogname'		=>	'IT开发者',
 	'framework'		=>	'ThinkPHP 5',
 	'author'		=>	'YiXiXiao',
-	'docurl'		=>	'http://doc.loveteemo.com/',
+	'docurl'		=>	'http://blog.itdev.xin/',
 	'adminname'		=>	'肖义熙',
 	'comview'		=>	1,
 	'dehits'		=>	5,
