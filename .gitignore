@@ -14,3 +14,4 @@
 config.php
 database.php
 runtime
+/application/index/view/about_index.html
